@@ -1,0 +1,31 @@
+{
+  "name": "vote-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "George",
+  "license": "ISC",
+  "dependencies": {
+    "apidoc": "^0.17.7",
+    "bluebird": "^3.5.3",
+    "co": "^4.6.0",
+    "istanbul": "^0.4.5",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "mocha": "^6.0.2",
+    "mysql": "^2.16.0",
+    "nodemailer": "^5.1.1",
+    "redis": "^2.8.0",
+    "rewire": "^4.0.1",
+    "should": "^13.2.3",
+    "sinon": "^7.2.7",
+    "supertest": "^4.0.0",
+    "uuid": "^3.3.2",
+    "validator": "^10.11.0"
+  },
+  "apidoc": {
+    "name": "vote-system",
+    "title": "Vote-system Apidoc"
+  }
+}
